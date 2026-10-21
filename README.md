@@ -57,7 +57,7 @@
 - [Cloudability](https://www.cloudability.com/)
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
-- [Costory](https://www.costory.io/) - Multi-cloud, Kubernetes, SaaS and AI cost allocation, with a hosted MCP server that lets AI agents investigate and report on spend.
+- [Costory](https://www.costory.io/) - FinOps agent MCP: one allocated view of cloud, AI and data costs across providers, shared by your whole team with SSO. Starter $300/mo, 30-day free trial.
 - [Densify](https://www.densify.com/)
 
 ## Job Postings
